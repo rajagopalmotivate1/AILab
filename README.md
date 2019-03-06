@@ -12,7 +12,10 @@ https://github.com/rajagopalmotivate1/AILab/blob/master/1_1_MNIST_Predict_with_D
 
 
 3.    MNIST_with_CNN
-https://github.com/rajagopalmotivate1/AILab/blob/master/1_5_MNIST_with_CNN.ipynb 
+https://github.com/rajagopalmotivate1/AILab/blob/master/1_5_MNIST_with_CNN.ipynb
+
+
+
 
 
 4     image_classification__cats_part1
