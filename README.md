@@ -9,8 +9,6 @@ https://github.com/rajagopalmotivate1/AILab/blob/master/1_MNIST_Predict_with_Den
 https://github.com/rajagopalmotivate1/AILab/blob/master/1_1_MNIST_Predict_with_Dense_and_Tune_Capacity.ipynb
 
 
-
-
 3.    MNIST_with_CNN
 https://github.com/rajagopalmotivate1/AILab/blob/master/1_5_MNIST_with_CNN.ipynb
 
