@@ -33,3 +33,7 @@ https://github.com/rajagopalmotivate1/AILab/blob/master/Copy_of_Design_a_model_d
 
 8. Auto encoder 
 https://github.com/rajagopalmotivate1/AILab/blob/master/Remove_noise_in_pictures_using_Auto_encoder_.ipynb
+
+
+9. DC GAN
+https://github.com/rajagopalmotivate1/AILab/blob/master/DCGAN_Mnist_ver1.ipynb
