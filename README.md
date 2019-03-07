@@ -24,3 +24,8 @@ https://github.com/rajagopalmotivate1/AILab/blob/master/2_2_image_classification
 
 6.     Medical_image_classification
 https://github.com/rajagopalmotivate1/AILab/blob/master/4_Medical_image_classification_.ipynb
+
+
+
+7.   Copy_of_Design_a_model_dynamically_at_run_time ( Network architecture search) 
+https://github.com/rajagopalmotivate1/AILab/blob/master/Copy_of_Design_a_model_dynamically_at_run_time.ipynb
