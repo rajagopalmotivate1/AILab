@@ -1,5 +1,6 @@
 # AI for GOOD
-Deep Learning workshop at Karunya
+
+# Deep Learning workshop at Karunya on 6,7 March 2019
 
 Find a good idea.  Explore how to use AI to address a Social problem. To Find a problem go to this url http://www.un.org/millenniumgoals/education.shtml (click any one of the 8 icons such as poverty, etc)
 or this URL https://www.un.org/sustainabledevelopment/energy/ (click any of the 17 icons)
