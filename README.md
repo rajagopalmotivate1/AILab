@@ -6,9 +6,12 @@ or this URL https://www.un.org/sustainabledevelopment/energy/ (click any of the 
 
 
 
-
+ .     Opens in Colab
 #You may direclty open these by clicking here
 https://colab.research.google.com/github/rajagopalmotivate1/AILab/
+
+
+
 
 
 1.     My 1st neural network (using Dense layers)
