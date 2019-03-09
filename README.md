@@ -5,9 +5,8 @@ Find a good idea.  Explore how to use AI to address a Social problem. To Find a 
 or this URL https://www.un.org/sustainabledevelopment/energy/ (click any of the 17 icons)
 
 
-
- .     Opens in Colab
-#You may direclty open these by clicking here
+# Open in colab
+You may direclty open these by clicking here
 https://colab.research.google.com/github/rajagopalmotivate1/AILab/
 
 
