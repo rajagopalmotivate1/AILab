@@ -34,13 +34,13 @@ https://github.com/rajagopalmotivate1/AILab/blob/master/4_Medical_image_classifi
 
 
 
-7.   Design_a_model_dynamically_at_run_time ( Neural architecture search) 
+7.     Design_a_model_dynamically_at_run_time ( Neural architecture search)
 https://github.com/rajagopalmotivate1/AILab/blob/master/Copy_of_Design_a_model_dynamically_at_run_time.ipynb
 
 
-8. Auto encoder that improves automatically learns to improve photos 
+8.     Auto encoder that improves automatically learns to improve photos
 https://github.com/rajagopalmotivate1/AILab/blob/master/Remove_noise_in_pictures_using_Auto_encoder_.ipynb
 
 
-9. DC GAN Create handwriting on the fly
+9.     DC GAN Create handwriting on the fly
 https://github.com/rajagopalmotivate1/AILab/blob/master/DCGAN_Mnist_ver1.ipynb
