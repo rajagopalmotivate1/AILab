@@ -9,19 +9,54 @@ You may direclty open these by clicking here
 https://colab.research.google.com/github/rajagopalmotivate1/AILab/
 
 
-1.    MNIST_Predict_with_Dense
+1.    My 1st neural network (using Dense layers)
+https://github.com/rajagopalmotivate1/AILab/blob/master/1_MNIST_Predict_with_Dense.ipynb
+
+1.    My 1st neural network (using Dense layers)
+https://github.com/rajagopalmotivate1/AILab/blob/master/1_MNIST_Predict_with_Dense.ipynb
+
+1.    My 1st neural network (using Dense layers)
+https://github.com/rajagopalmotivate1/AILab/blob/master/1_MNIST_Predict_with_Dense.ipynb
+
+1.    My 1st neural network (using Dense layers)
+https://github.com/rajagopalmotivate1/AILab/blob/master/1_MNIST_Predict_with_Dense.ipynb
+
+1.    My 1st neural network (using Dense layers)
+https://github.com/rajagopalmotivate1/AILab/blob/master/1_MNIST_Predict_with_Dense.ipynb
+
+1.    My 1st neural network (using Dense layers)
+https://github.com/rajagopalmotivate1/AILab/blob/master/1_MNIST_Predict_with_Dense.ipynb
+
+1.    My 1st neural network (using Dense layers)
+https://github.com/rajagopalmotivate1/AILab/blob/master/1_MNIST_Predict_with_Dense.ipynb
+
+1.    My 1st neural network (using Dense layers)
 https://github.com/rajagopalmotivate1/AILab/blob/master/1_MNIST_Predict_with_Dense.ipynb
 
 
-2.    MNIST_Predict_with_Dense_and_Tune_Capacity
+1.    My 1st neural network (using Dense layers)
+https://github.com/rajagopalmotivate1/AILab/blob/master/1_MNIST_Predict_with_Dense.ipynb
+
+
+1.    My 1st neural network (using Dense layers)
+https://github.com/rajagopalmotivate1/AILab/blob/master/1_MNIST_Predict_with_Dense.ipynb
+
+
+1.    My 1st neural network (using Dense layers)
+https://github.com/rajagopalmotivate1/AILab/blob/master/1_MNIST_Predict_with_Dense.ipynb
+
+1.    My 1st neural network (using Dense layers)
+https://github.com/rajagopalmotivate1/AILab/blob/master/1_MNIST_Predict_with_Dense.ipynb
+
+2.    How to tune the power of generalization of my 1st neural network (watch out the validation error over epochs)
 https://github.com/rajagopalmotivate1/AILab/blob/master/1_1_MNIST_Predict_with_Dense_and_Tune_Capacity.ipynb
 
 
-3.    MNIST_with_CNN
+3.    My 1st CNN based neural network 
 https://github.com/rajagopalmotivate1/AILab/blob/master/1_5_MNIST_with_CNN.ipynb
 
 
-4.     image_classification__cats_part1
+4.     CNN based neural network for classifiying between cats vs dogs photos
 https://github.com/rajagopalmotivate1/AILab/blob/master/2_1_image_classification__cats_part1.ipynb
 
 
