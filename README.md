@@ -11,7 +11,7 @@ or this URL https://www.un.org/sustainabledevelopment/energy/ (click any of the 
 https://colab.research.google.com/github/rajagopalmotivate1/AILab/
 
 # AI for Good workshop presentations (2 day Deep Learning Workshop, March 2019)
-All these content are available at https://github.com/rajagopalmotivate1/AI-for-Good
+## All the presentation slides are available at https://github.com/rajagopalmotivate1/AI-for-Good
 ### 1. Current and Future Trends in Deep Learning 
 ### 2. Which approach to learn to become a leader in Deep Learning? (Choose a friendly Deep Learning Framework)
 ### 3. How to design Deep Learning for Professional Computer Vision (Transfer Learning and CNN)
