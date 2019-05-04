@@ -9,35 +9,35 @@
 ### 1. Current and Future Trends in Deep Learning 
 https://github.com/rajagopalmotivate1/AI-for-Good/blob/master/Session%201%20Bright%20Future%20for%20you%20.pdf
 
-### 2. Which approach to learn to become a leader in Deep Learning? (Choose a friendly Deep Learning Framework)
+### 2. How to succeed in Deep Learning projects? (Strategies & tips)
 https://github.com/rajagopalmotivate1/AI-for-Good/blob/master/Session%202%20Strategy%20to%20Lead%20Ahead%20Deep%20Learning.pdf
 
 
-### 3. Develop your 1st Deep Learning project
+### 3. Jump start hands-on 
 https://github.com/rajagopalmotivate1/AI-for-Good/blob/master/Session%204%20Jump%20start%201st%20Hands%20on%20Dense%20Neural%20net.pdf
 
-### 4. Few concepts in Deep Learning
+### 4. Concepts Deep Learning
 https://github.com/rajagopalmotivate1/AI-for-Good/blob/master/Session%203%20Deep%20Learning%20basics.pdf
 
-### 5. Develop your professional Deep Learning project with Transfer Learning
+### 5. Professional Deep Learning 
 https://github.com/rajagopalmotivate1/AI-for-Good/blob/master/Session%206%20Transfer%20Learning.pdf
 
-### 6. Few concepts in CNN
+### 6. CNN in-depth
 https://github.com/rajagopalmotivate1/AI-for-Good/blob/master/Session%205%20How%20CNN%20work.pdf
 
-### 7. How to get started in Neural Architecture Search
+### 7. Invent the Future of AI / How to get started in Neural Architecture Search
 https://github.com/rajagopalmotivate1/AI-for-Good/blob/master/Session%207%20Future%20of%20AI.pdf
 
-### 6. State of art AI
+### 6. State of art AI / Generative Deep Learning
 https://github.com/rajagopalmotivate1/AI-for-Good/blob/master/Session%208%20Current%20trends%20in%20Deep%20Learning.pdf
 
 
 
 # Hands-on Lab: Deep Learning , Generative Deep Learning, Architecture Search
 
-## 1. Learn CNN Deep Learning for image classification with Transfer learning
-## 2. Learn GAN for image synthesis, improve photos with Autoencoders
-## 3. Learn to get started towards building your own Neural Architecture Search (let an computer algo find out how different models perform)
+## 1. CNN Deep Learning  
+## 2. Image synthesis, improve photos with Autoencoders, GAN
+## 3. Neural Architecture Search (let an computer algo find out how different models perform)
 
 1.     My 1st neural network (using Dense layers)
 https://github.com/rajagopalmotivate1/AILab/blob/master/1_MNIST_Predict_with_Dense.ipynb
