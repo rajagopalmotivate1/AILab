@@ -4,12 +4,7 @@
 
 
 
-# How to open and run these projects? 
-## You may direclty open in Google colab  by clicking here
-https://colab.research.google.com/github/rajagopalmotivate1/AILab/
 
-# AI for Good workshop presentations (2 day Deep Learning Workshop, March 2019)
-All these content are available at https://github.com/rajagopalmotivate1/AI-for-Good
 
 ### 1. Current and Future Trends in Deep Learning 
 https://github.com/rajagopalmotivate1/AI-for-Good/blob/master/Session%201%20Bright%20Future%20for%20you%20.pdf
@@ -81,6 +76,8 @@ https://github.com/rajagopalmotivate1/AILab/blob/master/Remove_noise_in_pictures
 https://github.com/rajagopalmotivate1/AILab/blob/master/DCGAN_Mnist_ver1.ipynb
 
 
-
+# How to open and run these projects? 
+## You may direclty open in Google colab  by clicking here
+https://colab.research.google.com/github/rajagopalmotivate1/AILab/
 
 
